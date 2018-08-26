@@ -1,1 +1,1 @@
-# DSA-2017
+# Data Structures and Algorithms class projects
